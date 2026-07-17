@@ -1,5 +1,5 @@
-public class prime {
-    static void main(){
+public class Prime {
 
-    }
+
+
 }
